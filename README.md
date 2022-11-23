@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Jorge Gonzalez 👋</h1>
 <h3 align="center">🚀 Jr. Software Developer| Open Source ♥ | Front & back Learner | Competitive Programmer  🚀</h3>
 <div>
-<img width = "40%" align="right" alt="PIC" height="290px" src="https://media.giphy.com/media/6gsPx8TLihfFpI9aPP/giphy.gif" />
+<img width = "40%" align="right" alt="PIC" height="250px" src="https://media.giphy.com/media/6gsPx8TLihfFpI9aPP/giphy.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
