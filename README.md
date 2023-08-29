@@ -17,7 +17,7 @@
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media-exp1.licdn.com/dms/image/C5622AQHXSsDw0vj2eQ/feedshare-shrink_2048_1536/0/1648651838286?e=2147483647&v=beta&t=d9-ej5Te-hXMMYt4714zWPyjqzIw8FlS4wdmBa2hr44"   width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+<img src="https://media-exp1.licdn.com/dms/image/C5622AQHXSsDw0vj2eQ/feedshare-shrink_2048_1536/0/1648651838286?e=2147483647&v=beta&t=d9-ej5Te-hXMMYt4714zWPyjqzIw8FlS4wdmBa2hr44"   width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
     
   <p>
 </div> 
